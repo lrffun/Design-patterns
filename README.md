@@ -1,4 +1,4 @@
-# Design-patterns
+# 设计模式
 This is the assignment for the design patterns course.
 - 第一次作业（使用和不使用单一职责原则的框架实现Login）
 > [使用单一职责原则](https://github.com/lrffun/Design-patterns/tree/master/Login/src/Use_responsibility)<br>
