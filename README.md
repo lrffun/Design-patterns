@@ -12,4 +12,7 @@ This is the assignment for the design patterns course.
 > [迪米特法则](https://github.com/lrffun/Design-patterns/tree/master/%E4%B8%83%E5%A4%A7%E5%8E%9F%E5%88%99/src/%E8%BF%AA%E7%B1%B3%E7%89%B9%E6%B3%95%E5%88%99)<br>
 > [里氏代换原则](https://github.com/lrffun/Design-patterns/tree/master/%E4%B8%83%E5%A4%A7%E5%8E%9F%E5%88%99/src/%E9%87%8C%E6%B0%8F%E4%BB%A3%E6%8D%A2%E5%8E%9F%E5%88%99)<br>
 ## 各模式实现
+### 创建型模式
 - [简单工厂模式](https://github.com/lrffun/Design-patterns/tree/master/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
+### 结构型模式
+### 行为型模式
