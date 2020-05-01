@@ -1,5 +1,6 @@
 # 设计模式
 This is the assignment for the design patterns course.
+## 七大原则实现
 - 第一次作业（使用和不使用单一职责原则的框架实现Login）
 > [使用单一职责原则](https://github.com/lrffun/Design-patterns/tree/master/Login/src/Use_responsibility)<br>
 > [不使用单一职责原则](https://github.com/lrffun/Design-patterns/blob/master/Login/src/Not_use_responsibility/Login.java)<br>
@@ -14,5 +15,27 @@ This is the assignment for the design patterns course.
 ## 各模式实现
 ### 创建型模式
 - [简单工厂模式](https://github.com/lrffun/Design-patterns/tree/master/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
+- [工厂模式](https://github.com/lrffun/Design-patterns/tree/master/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
+- [单例模式](https://github.com/lrffun/Design-patterns/tree/master/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
+- [原型模式](https://github.com/lrffun/Design-patterns/tree/master/%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F)
+- [建造者模式](https://github.com/lrffun/Design-patterns/tree/master/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F)
 ### 结构型模式
+- [适配器模式](https://github.com/lrffun/Design-patterns/tree/master/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F)
+- [桥接模式](https://github.com/lrffun/Design-patterns/tree/master/%E6%A1%A5%E6%8E%A5%E6%A8%A1%E5%BC%8F)
+- [组合模式]()
+- [装饰模式](https://github.com/lrffun/Design-patterns/tree/master/%E8%A3%85%E9%A5%B0%E6%A8%A1%E5%BC%8F)
+- [外观模式](https://github.com/lrffun/Design-patterns/tree/master/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F)
+- [享元模式](https://github.com/lrffun/Design-patterns/tree/master/%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F)
+- [代理模式](https://github.com/lrffun/Design-patterns/tree/master/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F)
 ### 行为型模式
+- [责任链模式]()
+- [命令模式]()
+- [状态模式]()
+- [观察者模式]()
+- [迭代器模式]()
+- [访问者模式]()
+- [模板方法模式]()
+- [策略模式]()
+- [备忘录模式]()
+- [中介者模式]()
+- [解释器模式]()
