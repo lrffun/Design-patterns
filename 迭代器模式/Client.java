@@ -7,7 +7,7 @@ public class Client {
 		agg.add("Lenovo");
 		agg.add("Ailens");
 		agg.add("TCL");
-		Iterator it = agg.getIterator();
+		Iterator it = agg.getIterator();	
 		while(it.hasNext()) {
 			System.out.println(it.next());
 		}
